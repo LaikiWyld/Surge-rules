@@ -1,0 +1,21 @@
+# Crypto Exchanges
+
+# Binance
+DOMAIN-SUFFIX,binance.com,Crypto
+DOMAIN-SUFFIX,binance.us,Crypto
+DOMAIN-SUFFIX,binance.me,Crypto
+DOMAIN-SUFFIX,binance.co,Crypto
+DOMAIN-SUFFIX,bnbstatic.com,Crypto
+DOMAIN-SUFFIX,binanceapi.com,Crypto
+DOMAIN-SUFFIX,saxobank.com,Crypto # Saxo Bank, often related
+
+# OKX
+DOMAIN-SUFFIX,okx.com,Crypto
+DOMAIN-SUFFIX,okx.me,Crypto
+DOMAIN-SUFFIX,okx.co,Crypto
+DOMAIN-SUFFIX,okx.net,Crypto
+DOMAIN-SUFFIX,okx-cdn.com,Crypto
+
+# Add more exchange domains below as needed
+# Example:
+# DOMAIN-SUFFIX,another-exchange.com,Crypto
